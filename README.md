@@ -18,7 +18,7 @@ STRIPE_SECRET_KEY="sk_test_..."   // Replace this with your own key
 ```
 
 ## 📝 Features -
-- User select any amount and currency to donation
-- Payment mode accepts is only card (either credit or debit)
+- User select any amount and currency for donation
+- Payment mode accepted is only card (either credit or debit)
 - Payment intent gets created by the calling the stripe api from the client side
 - User get feedback after the transaction complete or fails
