@@ -1,5 +1,6 @@
 
-![TEST113](https://github.com/Snehasis4321/stripe_payment_flutter/assets/96995340/9909779c-a5fe-4a1d-b59a-fdcd886d0d9b)
+![STRIPE-PAYMENT2](https://github.com/Snehasis4321/stripe_payment_flutter/assets/96995340/d8b683d4-202c-4ddf-929f-f1951cbe4378)
+
 
 # Stripe Payment Flutter
 
@@ -22,3 +23,12 @@ STRIPE_SECRET_KEY="sk_test_..."   // Replace this with your own key
 - Payment mode accepted is only card (either credit or debit)
 - Payment intent gets created by the calling the stripe api from the client side
 - User get feedback after the transaction complete or fails
+
+## 🌐 Important Links
+- https://dashboard.stripe.com/register
+- https://docs.stripe.com/india-accept-international-payments
+- https://docs.stripe.com/api/payment_intents
+- https://docs.page/flutter-stripe/flutter_stripe
+
+## 👩‍💻 Authors -
+- [Snehasis4321](https://github.com/Snehasis4321)
